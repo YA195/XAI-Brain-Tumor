@@ -51,7 +51,6 @@ pip install lime captum shap scikit-image
 
 4. **Run inference**:
    - Use a student's model (e.g., `student1 models/unet_segmentation.pth`):
-   **Outputs**:
    - Segmented mask
    - XAI visualizations (Grad-CAM, LIME, SHAP, DeepLIFT heatmaps)
 
