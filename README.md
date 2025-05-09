@@ -106,7 +106,7 @@ We welcome contributions to improve this project! To contribute:
 
 ## 🧑‍💻 Author
 
-Youssef Ahmed.  
+Team Members: Mazen Ahmed , Youssef Ahmed , Jilan Ismail , Hager Ali 
 GitHub: [@YA195](https://github.com/YA195)
 
 ---
